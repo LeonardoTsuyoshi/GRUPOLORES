@@ -2,7 +2,7 @@
 SUB TEMA - Roupas
 
 Integrantes: 
-- Lor
-- Lur
-- Lir
-- Lore
+- Lor GUSTAVO RICARDO
+- Lur LUCAS FERNANDES
+- Lir LEONARDO TSUYOSHI
+- Lore PEDRO GIL
