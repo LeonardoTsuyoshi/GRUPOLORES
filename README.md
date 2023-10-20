@@ -1,4 +1,4 @@
-# GRUPOLOR
+# LoreStore
 SUB TEMA - Roupas
 
 Integrantes: 
