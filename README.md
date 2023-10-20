@@ -1,3 +1,8 @@
 # GRUPOLOR
-sub tema = Roupas
-grupo: Gustavo Linaltevich, Lucas Fernandes, Pedro Gil, Leonardo Tsuyoshi
+SUB TEMA - Roupas
+
+Integrantes: 
+- Lor
+- Lur
+- Lir
+- Lore
