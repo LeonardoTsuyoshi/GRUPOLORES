@@ -1,0 +1,20 @@
+.bg-gradiente {
+    background-image: linear-gradient(to right bottom, #000000, #000000, #000000, #000000, #000000);
+}
+
+.tamanho {
+    width: 200px;
+}
+.texto{
+    color:#49484D;
+}
+.btn-primary {
+    background-color: black;
+    border: aliceblue;
+}
+.btn-primary:hover{
+    background-color: gray;
+}
+.page-link{
+    color:#000000
+}
